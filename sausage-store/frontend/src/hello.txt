@@ -1,1 +1,4 @@
 // here i will put the readme.file
+
+// this code it's ok but i need it in React pls
+// if you have any questions don't hesitate to ask me
